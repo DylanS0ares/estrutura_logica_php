@@ -1,5 +1,11 @@
 <?php
 
-# The first step to understand a language was to apply the "echo"
+$number = 2;
 
-echo "Hi!"
+
+if ($number != 3){
+    echo "It's not 3!";
+}
+else{
+    echo "It's 3 ".$number;
+}
