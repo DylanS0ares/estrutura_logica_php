@@ -13,9 +13,9 @@ Although, we created loops for and w
 
 Basics Terminal Command:
 
-cd ..  --  Close folder.
-dir    --  Directory/Show all folders and archives.
-cd     --  It goes to folder.
+cd ..  --  Close folder. <br>
+dir    --  Directory/Show all folders and archives.<br>
+cd     --  It goes to folder.<br>
 
 
 Created Index.php
