@@ -22,3 +22,11 @@ Created Index.php
 
 git init (new repository) <br>
 git branch name of the branch (new branch) <br>
+
+# 04/02/25
+
+Today we are seeing about the types of branches <br>
+
+Feature -- a lot of branches without comunications<br>
+Hotfix  -- fix right now <br>
+Bugfix  -- fix in the next release<br>
