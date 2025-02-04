@@ -1,5 +1,5 @@
 # PHP Logic
-
+#
 This repository demonstrates how PHP works by creating logical functions, conditionals, arrays and others essential logical structs.
 
 I described every single step in archive logica.php
