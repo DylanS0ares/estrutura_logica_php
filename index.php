@@ -1,5 +1,5 @@
 <?php
-
+#t
 $nome = "Alberto Roberto";
 $idade = 20;
 
