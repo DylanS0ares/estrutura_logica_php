@@ -22,7 +22,7 @@ body {
 }
 </style>';
 
-$notas = array(5, 5, 5, 10);
+$notas = array(5, 7, 6, 10);
 $media = 0;
 $aluno = "João";
 for ($i = 0; $i < count($notas); $i++) {
