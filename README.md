@@ -30,3 +30,5 @@ Today we are seeing about the types of branches <br>
 Feature -- a lot of branches without comunications<br>
 Hotfix  -- fix right now <br>
 Bugfix  -- fix in the next release<br>
+
+In this basic programmer I intend to use some configurations about html so I learned about blink during 1s and add a part of color with "font" and "p"
